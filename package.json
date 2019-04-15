@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/SudoDotDog/IO#readme",
   "dependencies": {
-    "@sudoo/bark": "^2.5.1"
+    "@sudoo/bark": "^2.5.1",
+    "@sudoo/io": "^1.2.1"
   },
   "devDependencies": {
-    "@sudoo/io": "^1.2.1",
     "@sudoo/mock": "^1.2.0",
     "@sudoo/triforce": "^1.5.0"
   },

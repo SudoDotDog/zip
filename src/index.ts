@@ -1,6 +1,6 @@
 /**
  * @author WMXPY
- * @namespace Package
+ * @namespace zip
  * @description Index
  */
 
