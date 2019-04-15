@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "Ghoti",
+        "RMRF",
+        "barksh",
+        "codecov",
+        "connor",
+        "splited",
+        "subpath",
+        "subpaths",
+        "sudoo",
+        "triforce",
+        "tshook",
+        "zipfiles"
+    ],
+    "tslint.configFile": "typescript/tslint.json",
+    "javascript.preferences.importModuleSpecifier": "auto",
+    "typescript.preferences.importModuleSpecifier": "auto"
+}
