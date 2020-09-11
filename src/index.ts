@@ -4,4 +4,5 @@
  * @description Index
  */
 
-console.log();
+export * from "./compress";
+

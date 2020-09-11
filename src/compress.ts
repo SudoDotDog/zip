@@ -19,4 +19,3 @@ export const compress = () => {
     gzip.write('hello ds da sad asd asd');
 };
 
-compress();
