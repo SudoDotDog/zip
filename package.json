@@ -2,9 +2,6 @@
   "name": "@sudoo/zip",
   "version": "1.0.0",
   "description": ":package: Node zip actions",
-  "directories": {
-    "doc": "docs"
-  },
   "engines": {
     "node": ">=10"
   },
@@ -41,9 +38,6 @@
       "text-summary"
     ],
     "report-dir": "coverage",
-    "require": [
-      "./test/tshook.js"
-    ],
     "sourceMap": true
   }
 }
