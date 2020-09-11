@@ -7,7 +7,7 @@
 import * as Fs from 'fs';
 import { createGzip, Gzip } from 'zlib';
 
-export const compress = () => {
+export const compress = (): void => {
 
     const gzip: Gzip = createGzip();
 
@@ -18,4 +18,3 @@ export const compress = () => {
     gzip.pipe(targetFile);
     gzip.write('hello ds da sad asd asd');
 };
-
